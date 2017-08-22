@@ -1,0 +1,6 @@
+---
+applications:
+- name: py-flask-sample
+  memory: 512M
+  host: py-flask-sample
+
